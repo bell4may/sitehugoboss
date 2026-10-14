@@ -2703,3 +2703,10 @@ input, select, textarea {
 				}
 
 	}
+	header, #header, .container {
+		margin-bottom: 0 !important;
+	}
+	
+	header *, #header * {
+		margin-bottom: 0.5em !important;
+	}
